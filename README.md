@@ -1,11 +1,3 @@
-**GitHub Description**
-A Python-based barcode generator script using python-barcode and Pillow to generate and display Code128 barcodes.
-
----
-
-**`README.md`**
-
-```markdown
 # PY Barcode Generator
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
